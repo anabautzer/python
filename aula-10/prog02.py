@@ -1,0 +1,1 @@
+# Dadas duas notas pelo usuário, verificar se ele está "aprova" (ao menos 6), "reprovado" (abaixo de 4) ou em "exame (entre 4 e 5.9)"
